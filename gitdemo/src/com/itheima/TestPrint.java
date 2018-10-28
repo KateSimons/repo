@@ -10,6 +10,6 @@ public class TestPrint {
     public static void count(int a) {
         int i = 10;
         i += 20;
-        System.out.println(i + a);
+        System.out.println(i + 2*a);
     }
 }
